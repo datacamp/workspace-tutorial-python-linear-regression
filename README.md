@@ -22,5 +22,5 @@ In the "GitHub repository name or URL" textbox, type `workspace-tutorial-python-
 
 Click "Create workspace".
 
-![Create a workspace from GitHub dialog](https://user-images.githubusercontent.com/197589/169853716-5d3258f0-00b8-4ad4-b179-cd9f67af79d7.png)
+![Create a workspace from GitHub dialog](https://user-images.githubusercontent.com/197589/171677626-55d35c58-dc17-48d6-86c2-f435c5d5677a.png)
 
